@@ -1,0 +1,37 @@
+{
+    "db": {
+        "addresses": [
+            "localhost"
+        ],
+        "port": 28015,
+        "initialCap": 1,
+        "maxOpen": 1,
+        "timeout": 5,
+        "debug": true
+    },
+    "services": [
+        {
+            "name": "account",
+            "host": "127.0.0.1",
+            "port": 30001
+        },
+        {
+            "name": "match",
+            "host": "127.0.0.1",
+            "port": 30002
+        },
+        {
+            "name": "characters",
+            "host": "127.0.0.1",
+            "port": 30003
+        },
+        {
+            "name": "priv",
+            "host": "127.0.0.1",
+            "port": 30004
+        }
+    ],
+    "server": {
+        "path": "PATH_TO_SERVER_EXECUTABLE"
+    }
+}

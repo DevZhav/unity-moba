@@ -1,0 +1,91 @@
+{
+"maintitle": "KILL2LIVE",
+
+"requesttimeout": "Server communication is failed!",
+"failedtoload": "A problem is occured.",
+
+"loginbtn": "Sign In",
+"resetpassbtn": "Reset Password",
+"registerbtn": "Create an account",
+
+"loginformtitle": "SIGN IN",
+"loginformemail": "E-mail...",
+"loginformpassword": "Password...",
+"loginformbtn": "SIGN IN",
+"loginfailed": "Sign-in failed!",
+"loginfaileddesc": "Please check your information and try again.",
+
+"registerformtitle": "REGISTER",
+"registerformemail": "E-mail...",
+"registerformnick": "Nickname...",
+"registerformpassword": "Password...",
+"registerformpasswordconfirm": "Password confirmation...",
+"registerformbtn": "REGISTER",
+"registerfailed": "Registration is failed",
+"registerfaileddesc": "Please check your information and try again.",
+"registercodetitle": "ACTIVATE",
+"registercodeformbtn": "ACTIVATE",
+"registercodeformcode": "Code...",
+"registercodefailed": "Code check is failed",
+"registercodefaileddesc": "Please try again.",
+
+"resetpassformtitle": "RESET PASSWORD",
+"resetpassformemail": "E-mail...",
+"resetpassformbtn": "RESET",
+"resetfailed": "Password reset is failed",
+"resetfaileddesc": "Please try again",
+"resetcodetitle": "RESET PASSWORD",
+"resetcodeformbtn": "RESET",
+"resetcodefailed": "Code check is failed",
+"resetcodefaileddesc": "Please try again.",
+
+"valiEmail": "Please enter a valid e-mail address!",
+"validPass": "Please enter a valid password!",
+"validPassDetail": "Your password must include at least 8 characters, one number and one uppercase character",
+"validPassMatch": "Passwords do not match!",
+"validNick": "Please enter valid nickname!",
+"validNickDetail": "Your nickname can be maximum 13 length with only numbers and letters.",
+"validCode": "Please enter a valid code!",
+
+"matchtype1vs1": "1 vs 1",
+"matchtype2vs2": "2 vs 2",
+"matchtype3vs3": "3 vs 3",
+"matchtype4vs4": "4 vs 4",
+"matchtype5vs5": "5 vs 5",
+"matchtypedm": "Death Match",
+"matchtypebattle": "Battle",
+
+"settingsgeneraltitle": "GENERAL SETTINGS",
+"settingsabout": "KILL2LIVE",
+"settingstoutitle": "Terms of Use",
+"settingsdone": "DONE",
+"settingssoundtoggle": "Enable Sound",
+"settingssoundvolume": "Volume",
+"settingsabouttitle": "ABOUT",
+
+"joinfailed": "Failed to join into a game",
+"joinfaileddesc": "Please try again or restart your client",
+"leavefailed": "Failed to leave a game",
+"leavefaileddesc": "Please check your internet connection and try again",
+
+"leavebtn": "LEAVE",
+
+"charstitle": "CHOOSE A CHARACTER",
+
+"skillhealth": "HEALTH",
+"skillstamina": "STAMINA",
+"skillspeed": "SPEED",
+"skillsword": "SWORD",
+"skillbow": "BOW",
+"skillshield": "SHIELD",
+
+"char1": "Ashina Helu",
+"char1desc": "Ashina Helu, also known as Ishbara Khagan, was the last khagan of the Western Turkic Khaganate.",
+"char2": "Ishbara Tolis",
+"char2desc": "Ishbara Tolis (personal name Tong Shad) was the ruler of Western Turkic Khaganate.",
+"char3": "Heshana Khagan",
+"char3desc": "Heshana Khagan was the second Khagan and third ruler of the Western Turkic Khaganate.",
+
+"choosefailed": "Failed to choose a character",
+"choosefaileddesc": "Please try again to choose a character"
+}
