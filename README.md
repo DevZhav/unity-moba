@@ -11,7 +11,7 @@ A very detailed lobby application with 7 different match types.
 3 example maps with 3 example characters with working server-client example.
 
 # WHAT IS IN THE BOX?
-- An open source database
+- An open source database (Rethink)
 - 4 ready-to-use services
   - Account service
   - Match service

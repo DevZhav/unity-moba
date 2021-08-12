@@ -6101,10 +6101,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   debugCanvas: {fileID: 1977040098}
   debugAccounts:
-  - Email: farkow@gmail.com
-    Password: Frkw31200
-  - Email: cursedturk@gmail.com
-    Password: Frkw31200
+  - Email: email1@indb.com
+    Password: 
+  - Email: email2@indb.com
+    Password: 
   - Email: erencik.aydincik@gmail.com
     Password: Frkw31200
   debugAccountsContainer: {fileID: 706131479}
